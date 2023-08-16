@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_strawberry.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/strawberry.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_juice.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/juice.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_plus.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_clock.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_suggar.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/suggar.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_minus.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_mind.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/mind.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_strawberry_pie_2.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/strawberry_pie_2.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_strawberry_pie_3.jpg.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/strawberry_pie_3.jpg"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_flour.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/flour.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_flame.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_flame.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_eggs.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/eggs.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_vanilla.png.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/vanilla.png"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_strawberry_pie_1.jpg.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/strawberry_pie_1.jpg"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/drawable_ic_star.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.recipesui.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.recipesui.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
